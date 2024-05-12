@@ -19,4 +19,12 @@
         <servlet-name>CoolJsp</servlet-name>
         <url-pattern>/cooljsp</url-pattern>
     </servlet-mapping>
+    <servlet>
+        <servlet-name>redirectJsp</servlet-name>
+        <jsp-file>/redirect.jsp</jsp-file>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>redirectJsp</servlet-name>
+        <url-pattern>/redirectjsp</url-pattern>
+    </servlet-mapping>
 </web-app>

@@ -9,8 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b85ea645-4e29-4972-95f5-95fd9bdc4f7f" name="Changes" comment="create example of proceeding parameter in get query">
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/mynew.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/mynew.jsp" afterDir="false" />
+    <list default="true" id="b85ea645-4e29-4972-95f5-95fd9bdc4f7f" name="Changes" comment="create example of proceeding parameter in get query by JSP file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/umar/firstweb/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/umar/firstweb/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Jsp File" />
       </list>
     </option>
@@ -38,7 +41,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2gEnDfVu41rmOnl4A7sAUCRvqYq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -152,7 +157,7 @@
       <workItem from="1715271491404" duration="3144000" />
       <workItem from="1715274663589" duration="195000" />
       <workItem from="1715349026793" duration="609000" />
-      <workItem from="1715541697433" duration="579000" />
+      <workItem from="1715541697433" duration="1102000" />
     </task>
     <task id="LOCAL-00001" summary="create project">
       <created>1715274713050</created>
@@ -175,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1715542222757</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create example of proceeding parameter in get query by JSP file">
+      <created>1715542321295</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715542321295</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +208,7 @@
     <MESSAGE value="create project" />
     <MESSAGE value="change gitignore" />
     <MESSAGE value="create example of proceeding parameter in get query" />
-    <option name="LAST_COMMIT_MESSAGE" value="create example of proceeding parameter in get query" />
+    <MESSAGE value="create example of proceeding parameter in get query by JSP file" />
+    <option name="LAST_COMMIT_MESSAGE" value="create example of proceeding parameter in get query by JSP file" />
   </component>
 </project>
