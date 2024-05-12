@@ -18,7 +18,7 @@
     <h1>Some cool jsp</h1>
     <%
         ArrayList<String> words = new ArrayList<>(Arrays.asList("Derived", "Outset", "Concerned", "Numerous", "Formerly"));
-        out.println("<p>" + words.get(0) + "</p>");
+        out.println("<p>" + request.getParameter("name") + "</p>");
         for (int i = 0; i<10; i++) {
             int rnd = new Random().nextInt(words.size());
             out.println("<p>" + words.get(rnd) + "</p>");
